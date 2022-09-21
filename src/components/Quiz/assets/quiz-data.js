@@ -2,7 +2,7 @@ const quizData = {
   title: 'LEAPing into Mathematics: Algebra',
   description:
     'Algebra is a branch of mathematics that deals with variables and the arithmetic operations across these variables. This interactive, multiple-choice quiz is great to test your algebra knowledge in a fun way.  Press START to LEAP into the fun!',
-  img: 'start-example.png',
+  img: 'leap-orange-navy-brand.png',
   questions: [
     {
       id: 1,
