@@ -86,6 +86,7 @@ const quizData = {
     {
       id: 4,
       text: 'A store has 10 doors and 40 windows.  What is the ratio of doors to windows?',
+      img: 'question-example-2.jpg',
       alternatives: [
         {
           id: 1,
@@ -102,6 +103,7 @@ const quizData = {
 	{
       id: 5,
       text: 'A store has 10 doors and 40 windows.  What is ratio of windows to doors?',
+      img: 'question-example-3.jpg',
       alternatives: [
         {
           id: 1,
@@ -170,6 +172,7 @@ const quizData = {
 	{
       id: 8,
       text: 'Cross multiplication is used to check if a proportion is ________:',
+      img: 'question-example-4.jpg',
       alternatives: [
         {
           id: 1,
@@ -196,6 +199,7 @@ const quizData = {
 	{
       id: 9,
       text: 'Use cross multiplication, find x: x/3 = 8/12',
+      img: 'question-example-4.jpg',
       alternatives: [
         {
           id: 1,
@@ -222,6 +226,7 @@ const quizData = {
 	{
       id: 10,
       text: 'The ratio of boys to girls in a class is 3:2.  If there are 9 boys, find the number of girls.',
+      img: 'question-example-5.jpg',
       alternatives: [
         {
           id: 1,
