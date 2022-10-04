@@ -85,34 +85,34 @@ const quizData = {
     },
     {
       id: 4,
-      text: 'A store has 10 doors and 40 windows.  What is the ratio of doors to windows?',
+      text: 'A store has 1 doors and 4 windows.  What is the ratio of doors to windows?',
       img: 'question-example-2.jpg',
       alternatives: [
         {
           id: 1,
-          text: '10/40 or 1/4',
+          text: '1/4',
           isCorrect: true,
         },
         {
           id: 2,
-          text: '40/10 or 4/1',
+          text: '4/1',
           isCorrect: false,
         },
       ],
     },
 	{
       id: 5,
-      text: 'A store has 10 doors and 40 windows.  What is ratio of windows to doors?',
+      text: 'A store has 1 doors and 4 windows.  What is ratio of windows to doors?',
       img: 'question-example-3.jpg',
       alternatives: [
         {
           id: 1,
-          text: '10/40 or 1/4',
+          text: '1/4',
           isCorrect: false,
         },
         {
           id: 2,
-          text: '40/10 or 4/1',
+          text: '4/1',
           isCorrect: true,
         },
       ],
