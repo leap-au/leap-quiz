@@ -1,7 +1,7 @@
 const quizData = {
-  title: 'LEAPing into Mathematics: Algebra',
+  title: 'LEAPing into Mathematics: Ratios and Proportional Relationships',
   description:
-    'Algebra is a branch of mathematics that deals with variables and the arithmetic operations across these variables. This interactive, multiple-choice quiz is great to test your algebra knowledge in a fun way.  Press START to LEAP into the fun!',
+    'Analyze proportional relationships and use them to solve real-world and mathematical problems. This interactive, multiple-choice quiz is great to test your ratios and proportional relationship knowledge in a fun way.  Press START to LEAP into the fun!',
   img: 'leap-orange-navy-brand.png',
   questions: [
     {
