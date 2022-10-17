@@ -85,7 +85,7 @@ const quizData = {
     },
     {
       id: 4,
-      text: 'A store has 1 doors and 4 windows.  What is the ratio of doors to windows?',
+      text: 'A store has 1 door and 4 windows.  What is the ratio of doors to windows?',
       img: 'question-example-2.jpg',
       alternatives: [
         {
@@ -102,7 +102,7 @@ const quizData = {
     },
 	{
       id: 5,
-      text: 'A store has 1 doors and 4 windows.  What is ratio of windows to doors?',
+      text: 'A store has 1 door and 4 windows.  What is ratio of windows to doors?',
       img: 'question-example-3.jpg',
       alternatives: [
         {
